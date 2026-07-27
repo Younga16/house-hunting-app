@@ -103,7 +103,7 @@ header h1 {
 .card-body h2 {
   margin: 0 0 0.35rem;
   font-size: 1.05rem;
-  min-height: 2.6em;
+  min-height: 3em;
 }
 
 .price {
